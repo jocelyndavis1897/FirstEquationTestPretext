@@ -1,0 +1,14 @@
+<pretext>
+  <article>
+    <title>My First PreTeXt Page</title>
+
+    <section>
+      <title>First Equation Test</title>
+
+      <p>This is my first PreTeXt test.</p>
+
+      <me>r'(t)=(-\sin t, \cos t)</me>
+      <me>\lVert r'(t)\rVert=\sqrt{\sin^2 t+\cos^2 t}=1</me>
+    </section>
+  </article>
+</pretext>
